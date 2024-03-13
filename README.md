@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaurirajput01
-- 👀 I’m interested in web development and promt AI
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me at gaurirajput742@gmail.com
