@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Gauree%20Rajput&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <p>
-<a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-134E5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gaureerajput01/"><img src="https://img.shields.io/badge/LinkedIn-134E5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-71B280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
