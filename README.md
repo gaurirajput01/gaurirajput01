@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Gauree%20Rajput&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20AWS%20Cloud&descAlignY=60&descSize=20" width="100%"/>
+# Gauree Rajput
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=180&section=header" width="100%"/>
 
 <p>
 <a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-134E5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
