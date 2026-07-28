@@ -1,10 +1,11 @@
 <div align="center">
 
-# Gauree Rajput
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=200&section=header&text=Gauree%20Rajput&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20AWS%20Cloud&descAlignY=60&descSize=20" width="100%"/>
 
-**AI Engineer** · Retrieval-Augmented Generation · AWS Cloud Systems
-
-[Email](mailto:gaurirajput742@gmail.com) · [LinkedIn](https://linkedin.com/in/gauri-rajput) · Pune, India
+<p>
+<a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -41,11 +42,14 @@ Designed a hybrid PCOD detection model combining the Firefly Algorithm with XGBo
 
 ## Technical Skills
 
-**Languages** — Python, C++, C, JavaScript, SQL
-**Cloud & Infrastructure** — AWS Lambda, Bedrock, S3, API Gateway, ECR, Docker
-**ML / AI** — RAG, Vector Search, LLM Integration, Prompt Engineering, SHAP
-**Frameworks** — FastAPI, Flask, React.js
-**Foundations** — Data Structures & Algorithms, Object-Oriented Design, API Architecture
+```yaml
+languages   = ["Python", "C++", "C", "JavaScript", "SQL"]
+frameworks  = ["FastAPI", "Flask", "React.js"]
+concepts    = ["RAG", "Vector Search", "LLM Integration", "Prompt Engineering",
+                "SHAP", "Data Structures & Algorithms", "OOP", "API Design"]
+tools       = ["Git", "Docker", "Tableau", "Fusion 360"]
+cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
+```
 
 <br>
 
