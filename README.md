@@ -7,25 +7,33 @@
 <a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-71B280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br>
-
 </div>
 
-<br><br>
+<br>
+
+## About Me
+
+<table><tr><td bgcolor="#EAF6EF">
 
 I'm a final-year Electronics & Telecommunication Engineering student at PICT Pune, currently working as an AI Engineer Intern at Abistika Tech, where I design and ship serverless RAG systems on AWS Bedrock. My work sits at the intersection of applied machine learning and production backend engineering — I care as much about a model's accuracy as I do about the safety checks, latency, and cost profile of the system it ships in.
 
 Alongside my internship, I co-authored a peer-reviewed paper on a hybrid ensemble model for early PCOD detection, and I've built and shipped two award-winning AI applications — a scam-call detection system and a legal-document analysis tool — from prototype to working product.
 
+</td></tr></table>
+
 <br>
 
 ## Experience
+
+<table><tr><td bgcolor="#EAF2F4">
 
 <font color="#71B280">**AI Engineer Intern**</font> · **Abistika Tech** — *2026*
 Architected a serverless RAG and BQL assistant for building-management systems on AWS Lambda, API Gateway, and Bedrock, including a multi-layer intent-routing pipeline and a retrieval system built on Titan V2 embeddings.
 
 <font color="#134E5E">**Research Intern**</font> · **AWS Club** — *2025*
 Designed a hybrid PCOD detection model combining the Firefly Algorithm with XGBoost, LightGBM, and DNN, reaching 95.21% accuracy across 18 optimized features. Co-authored the resulting paper, published at an IEEE conference in 2026.
+
+</td></tr></table>
 
 <br>
 
@@ -78,15 +86,23 @@ cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
 
 ## Publication
 
+<table><tr><td bgcolor="#EAF2F4">
+
 **Firefly Algorithm Optimized Hybrid Ensemble Model for Accurate Detection of Polycystic Ovarian Disease (PCOD)**
 <font color="#134E5E"><b>IEEE Conference, 2026</b></font>
 [Read the write-up and methodology →](https://github.com/gaurirajput01/pcod-detection-research)
+
+</td></tr></table>
 
 <br>
 
 ## Beyond Engineering
 
+<table><tr><td bgcolor="#EAF6EF">
+
 Aesthetics Head, EDC Club — PICT (2025–26). Led design and branding for events reaching over 1,000 attendees, including BizzBuzz and Magnate.
+
+</td></tr></table>
 
 <br>
 
