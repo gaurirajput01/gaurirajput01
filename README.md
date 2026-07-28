@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=200&section=header&text=Gauree%20Rajput&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20AWS%20Cloud&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Gauree%20Rajput&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%20AWS%20Cloud&descAlignY=60&descSize=20" width="100%"/>
 
 <p>
-<a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-134E5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-71B280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
 
 <br>
 
-## About
+## Hello! 👋
 
 I'm a final-year Electronics & Telecommunication Engineering student at PICT Pune, currently working as an AI Engineer Intern at Abistika Tech, where I design and ship serverless RAG systems on AWS Bedrock. My work sits at the intersection of applied machine learning and production backend engineering — I care as much about a model's accuracy as I do about the safety checks, latency, and cost profile of the system it ships in.
 
