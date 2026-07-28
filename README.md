@@ -1,19 +1,17 @@
 <div align="center">
 
-# Gauree Rajput
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Gauree%20Rajput&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <p>
 <a href="https://linkedin.com/in/gauri-rajput"><img src="https://img.shields.io/badge/LinkedIn-134E5E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-71B280?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-</div>
-
 <br>
 
 <img src="https://img.shields.io/badge/-Hello!%20👋-134E5E?style=for-the-badge" />
+
+</div>
 
 <br><br>
 
@@ -25,26 +23,47 @@ Alongside my internship, I co-authored a peer-reviewed paper on a hybrid ensembl
 
 ## Experience
 
-<img src="https://img.shields.io/badge/-AI%20Engineer%20Intern-71B280?style=flat-square&logoColor=white" /> **Abistika Tech** — *2026*
+<font color="#71B280">**AI Engineer Intern**</font> · **Abistika Tech** — *2026*
 Architected a serverless RAG and BQL assistant for building-management systems on AWS Lambda, API Gateway, and Bedrock, including a multi-layer intent-routing pipeline and a retrieval system built on Titan V2 embeddings.
 
-<img src="https://img.shields.io/badge/-Research%20Intern-134E5E?style=flat-square&logoColor=white" /> **AWS Club** — *2025*
+<font color="#134E5E">**Research Intern**</font> · **AWS Club** — *2025*
 Designed a hybrid PCOD detection model combining the Firefly Algorithm with XGBoost, LightGBM, and DNN, reaching 95.21% accuracy across 18 optimized features. Co-authored the resulting paper, published at an IEEE conference in 2026.
 
 <br>
 
 ## Selected Work
 
-| | Project | Summary |
-|---|---|---|
-| 01 | **[Niagara BMS AI Assistant](https://github.com/gaurirajput01/niagara-bms-ai-assistant)** | Serverless RAG + BQL assistant for building-management queries, built during my internship at Abistika Tech.<br>`AWS Lambda` `Bedrock` `Titan V2` `Supabase` |
-| 02 | **[PCOD Detection — Firefly Ensemble](https://github.com/gaurirajput01/pcod-detection-research)** | Firefly-optimized DNN + XGBoost + LightGBM ensemble for PCOD screening. ![95.21%25](https://img.shields.io/badge/accuracy-95.21%25-71B280?style=flat-square) `Python` `SHAP` `XGBoost` |
-| 03 | **[DefenceX](https://github.com/gaurirajput01/WebWeaver-DefenceX)** | Real-time AI system for scam-call detection and classification. ![1st Place](https://img.shields.io/badge/🏆-1st%20Place-134E5E?style=flat-square) `BERT` `Flask` `React` |
-| 04 | **[LegalLens](https://github.com/gaurirajput01/Legal-Lens)** | AI-powered legal-document analyzer for clause and entity extraction. ![Runner-up](https://img.shields.io/badge/🥈-Runner--up-71B280?style=flat-square) `OCR` `FastAPI` `React` |
+<table>
+<tr bgcolor="#EAF6EF">
+<th>#</th><th>Project</th><th>Summary</th>
+</tr>
+<tr>
+<td>01</td>
+<td><b><a href="https://github.com/gaurirajput01/niagara-bms-ai-assistant">Niagara BMS AI Assistant</a></b></td>
+<td>Serverless RAG + BQL assistant for building-management queries, built during my internship at Abistika Tech.<br><code>AWS Lambda</code> <code>Bedrock</code> <code>Titan V2</code> <code>Supabase</code></td>
+</tr>
+<tr bgcolor="#F4FAF6">
+<td>02</td>
+<td><b><a href="https://github.com/gaurirajput01/pcod-detection-research">PCOD Detection — Firefly Ensemble</a></b></td>
+<td>Firefly-optimized DNN + XGBoost + LightGBM ensemble for PCOD screening. <font color="#134E5E"><b>95.21% accuracy</b></font><br><code>Python</code> <code>SHAP</code> <code>XGBoost</code></td>
+</tr>
+<tr>
+<td>03</td>
+<td><b><a href="https://github.com/gaurirajput01/WebWeaver-DefenceX">DefenceX</a></b></td>
+<td>Real-time AI system for scam-call detection and classification. <font color="#134E5E"><b>🏆 1st Place</b></font>, Credenz 2024<br><code>BERT</code> <code>Flask</code> <code>React</code></td>
+</tr>
+<tr bgcolor="#F4FAF6">
+<td>04</td>
+<td><b><a href="https://github.com/gaurirajput01/Legal-Lens">LegalLens</a></b></td>
+<td>AI-powered legal-document analyzer for clause and entity extraction. <font color="#71B280"><b>🥈 Runner-up</b></font>, Startathon 2024<br><code>OCR</code> <code>FastAPI</code> <code>React</code></td>
+</tr>
+</table>
 
 <br>
 
 ## Technical Skills
+
+<table><tr><td bgcolor="#EAF6EF">
 
 ```yaml
 languages   = ["Python", "C++", "C", "JavaScript", "SQL"]
@@ -55,20 +74,14 @@ tools       = ["Git", "Docker", "Tableau", "Fusion 360"]
 cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
 ```
 
-<p>
-<img src="https://img.shields.io/badge/Python-134E5E?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-71B280?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/React-134E5E?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-71B280?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-134E5E?style=flat-square&logo=docker&logoColor=white" />
-</p>
+</td></tr></table>
 
 <br>
 
 ## Publication
 
 **Firefly Algorithm Optimized Hybrid Ensemble Model for Accurate Detection of Polycystic Ovarian Disease (PCOD)**
-![IEEE 2026](https://img.shields.io/badge/IEEE-2026-134E5E?style=flat-square)
+<font color="#134E5E"><b>IEEE Conference, 2026</b></font>
 [Read the write-up and methodology →](https://github.com/gaurirajput01/pcod-detection-research)
 
 <br>
