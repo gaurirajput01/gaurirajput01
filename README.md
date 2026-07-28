@@ -5,8 +5,8 @@ AI Engineer Intern · RAG & LLM Systems · AWS Cloud · Pune, India
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Email-gaurirajput742%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-gauri--rajput-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<a href="mailto:gaurirajput742@gmail.com"><img src="https://img.shields.io/badge/Email-gaurirajput742%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/gauri-rajput" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gauri--rajput-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20LLMs%20%7C%20AWS%20Bedrock-2E8B57?style=flat" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Placements-orange?style=flat" />
 </p>
