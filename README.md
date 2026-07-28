@@ -17,7 +17,7 @@
 
 I'm a final-year Electronics & Telecommunication Engineering student at PICT Pune, currently working as an AI Engineer Intern at Abistika Tech, where I design and ship serverless RAG systems on AWS Bedrock. My work sits at the intersection of applied machine learning and production backend engineering — I care as much about a model's accuracy as I do about the safety checks, latency, and cost profile of the system it ships in.
 
-Alongside my internship, I co-authored a peer-reviewed paper on a hybrid ensemble model for early PCOD detection, and I've built and shipped two award-winning AI applications — a scam-call detection system and a legal-document analysis tool — from prototype to working product.
+Alongside my internship, I co-authored a peer-reviewed paper on a hybrid ensemble model for early PCOD detection, and I've built and shipped two Hackathon-winning AI applications — a scam-call detection system and a legal-document analysis tool.
 
 </td></tr></table>
 
@@ -89,8 +89,6 @@ cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
 <table><tr><td bgcolor="#EAF2F4">
 
 **Firefly Algorithm Optimized Hybrid Ensemble Model for Accurate Detection of Polycystic Ovarian Disease (PCOD)**
-<font color="#134E5E"><b>IEEE Conference, 2026</b></font>
-[Read the write-up and methodology →](https://github.com/gaurirajput01/pcod-detection-research)
 
 </td></tr></table>
 
@@ -101,6 +99,8 @@ cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
 <table><tr><td bgcolor="#EAF6EF">
 
 Aesthetics Head, EDC Club — PICT (2025–26). Led design and branding for events reaching over 1,000 attendees, including BizzBuzz and Magnate.
+Member, Robotics Club — PICT, where I learned robot mechanics and CAD design tools like Fusion 360, and authored 2 articles on robotics concepts published on LinkedIn.
+Member, IEEE PISB — PICT
 
 </td></tr></table>
 
