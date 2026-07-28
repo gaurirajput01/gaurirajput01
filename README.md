@@ -9,8 +9,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Hello!%20👋-134E5E?style=for-the-badge" />
-
 </div>
 
 <br><br>
