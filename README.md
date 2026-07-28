@@ -98,9 +98,9 @@ cloud (AWS) = ["Lambda", "Bedrock", "S3", "API Gateway", "ECR"]
 
 <table><tr><td bgcolor="#EAF6EF">
 
-- Aesthetics Head, EDC Club — PICT (2025–26). Led design and branding for events reaching over 1,000 attendees, including BizzBuzz and Magnate.
-- Member, Robotics Club — PICT, where I learned robot mechanics and CAD design tools like Fusion 360, and authored 2 articles on robotics concepts published on LinkedIn.
-- Member, IEEE PISB — PICT
+-Aesthetics Head, EDC Club — PICT (2025–26). Led design and branding for events reaching over 1,000 attendees, including BizzBuzz and Magnate.
+-Member, Robotics Club — PICT, where I learned robot mechanics and CAD design tools like Fusion 360, and authored 2 articles on robotics concepts published on LinkedIn.
+-Member, IEEE PISB — PICT
 
 </td></tr></table>
 
